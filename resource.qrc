@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/registerForm.png</file>
+    <file>icons/registerBG.png</file>
+    <file>icons/loginBG.png</file>
+    <file>icons/adminButton.png</file>
+    <file>icons/adminButtonClicked.png</file>
+    <file>icons/adminButtonHover.png</file>
+    <file>icons/log-out.png</file>
+    <file>icons/log-in.png</file>
+    <file>icons/homeBG.png</file>
+    <file>icons/employeeButton.png</file>
+    <file>icons/employeeButtonClicked.png</file>
+    <file>icons/employeeButtonHover.png</file>
+    <file>icons/loginForm.png</file>
+    <file>icons/logo1.png</file>
+    <file>icons/nice.png</file>
+  </qresource>
+</RCC>
